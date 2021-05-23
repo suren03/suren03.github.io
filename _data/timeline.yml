@@ -1,0 +1,20 @@
+- title: Jawaharlal Nehru Technological University, Kakinada, Andhra Pradesh, India
+  from: 2006
+  to: 2010
+  description: Major in Electronics and Communication Engineering.
+
+
+- title: Tata Consultancy Services
+  from: 2011
+  to: 2016
+  description: At TCS, I worked for Bank of America client. I worked in banks Customer Solution Architecture team which designs and builds backend services for Online website.
+
+- title: Larsen & Toubro Infotech
+  from: 2016
+  to: 2019
+  description: At L&T, I worked for Travelers client. I was part of an architecture team which is responsible for designing and building microservice architecture using event based messaging architecture, NoSQL Db and many more tools/frameworks.
+
+- title: Aetna, a CVS Health Company
+  from: 2019
+  to: present
+  description: I got an wonderful opportunity to design and develop microservice architecture on AWS Cloud using various tools/services like EKS, MSK, Document DB, RDS(Postgres), SQS, S3, ECR, ELK, Prometheus, Grafana, Redis etc..
