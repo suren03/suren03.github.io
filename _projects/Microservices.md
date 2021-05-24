@@ -1,7 +1,7 @@
 ---
 name: Design & Implement Microservice architecture
 tools: [Java, SpringBoot, Node JS, Kubernetes, Docker, GitHub, NoSQL(Mongo DB), SQL (Postgres, MySQL), In-Memory(Redis, Memcached), Apache Kafka, Apache Solr, Tomcat/Jetty ]
-image: https://raw.githubusercontent.com/ditac/ditac.github.io/master/assets/ms_arch.png
+image: https://raw.githubusercontent.com/suren03/suren03.github.io/master/assets/ms_arch.png
 ---
 
 I worked with a group of architects to design and implement microservices ecosystem and then migrate existing monolithic services to microservices.

@@ -1,0 +1,95 @@
+
+### Site Settings ###
+title               : Surendra Kumar Sunkara
+description         : I enjoy working on designing and developing cloud enabled, Highly Scalable, Available Fault-tolerant & Resilient distributed systems with Microservice & Event driven architectures.
+baseurl             : "/surendra"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+remote_theme        : YoussefRaafatNasry/portfolYOU
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                      # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/**
+
+
+### Author Info ###
+author:
+  name              : Surendra Kumar Sunkara
+  image             : portrait.png
+
+#  behance           : your_username
+# dribbble          : your_username
+  email             : surendrakumarsunkara@gmail.com
+  github            : suren03
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : surendra
+#  medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  twitter           : suren_kumar_s
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  elements:                                             # For Documentation Only
+    output: true                                        # For Documentation Only
+
+
+### Disqus ###
+disqus: your-short-name-disqus                          # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id:
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:                                              # For Documentation Only
+      path: ""                                          # For Documentation Only
+      type: "elements"                                  # For Documentation Only
+    values:                                             # For Documentation Only
+      layout: "element"                                 # For Documentation Only
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
+
+
