@@ -9,6 +9,8 @@ I worked with a group of architects to design and implement microservices ecosys
 We had developed a microservice framework(similar to SpringBoot) customized to project requirements. We have developed modules like Security, 
 Http Requests, Mongo initialization, Kafka, analytics module, logging module, bootstrap module and many other modules.  
 
+![](../assets/ms_arch.png "Microservice Architecture")
+
 Some interesting features that I would like highlight are -
 1.  we have built the microservice framework in Java, Node JS & DotNET(my contributions are in Java & Node JS). 
 2.  Successfully migrated the legacy monolithic services by building ~200 microservices.

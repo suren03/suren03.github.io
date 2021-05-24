@@ -5,9 +5,9 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **About Me** 
 
-Hi I am **{{ site.author.name }}** :wave:,<br> 
+I am **{{ site.author.name }}** :wave:,<br> 
 
 Experience in analysis, design, development, testing and Implementation of distributed Enterprise applications involving all the phases of the Software Development Life Cycle.
 
