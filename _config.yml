@@ -1,7 +1,7 @@
 
 ### Site Settings ###
 title               : Surendra Kumar Sunkara
-description         : I enjoy working on designing and developing cloud enabled, Highly Scalable, Available Fault-tolerant & Resilient distributed systems with Microservice & Event driven architectures.
+description         : Architected, designed and developed Highly Scalable, Available Fault-tolerant & Resilient distributed systems using Microservice & Event driven architectures.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 remote_theme        : suren03/test
 
